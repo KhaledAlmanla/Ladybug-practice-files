@@ -1,0 +1,43 @@
+# ========================
+# Rhino
+# ========================
+.3dmbak          # Rhino auto-backup files
+.rhl             # Rhino log files
+~.3dm            # Rhino templock files
+
+# ========================
+# Grasshopper
+# ========================
+.ghbak           # GH auto-backup files
+AutoSave         # GH autosave folder
+
+# ========================
+# Windows
+# ========================
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN
+
+# ========================
+# macOS
+# ========================
+.DS_Store
+.AppleDouble
+.Spotlight-V100
+.Trashes
+
+# ========================
+# Python (if using GHPython)
+# ========================
+__pycache__
+.pyc
+.pyo
+.env
+
+# ========================
+# Misc editorIDE
+# ========================
+.vscode
+.idea
+.swp
+.sav
